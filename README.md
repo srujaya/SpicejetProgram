@@ -3,6 +3,7 @@ Automated Testing of the SpiceJet Flight Booking System
 
 Description
 This project aims to develop an automated testing framework for the SpiceJet flight booking system using Java and Selenium WebDriver within the Eclipse IDE. The automation scripts will navigate through the SpiceJet website, perform various booking-related actions, and validate the functionality to ensure a seamless user experience.
+Automated Testing of SpiceJet Flight Booking System This project focuses on automating the functional testing of the SpiceJet flight booking system using Java and Selenium WebDriver. It validates key functionalities such as flight search, ticket booking, user login, and more. Key Features: Automates flight searches (one-way and round-trip).
 
 Test Objectives
 Automate Functional Testing: Develop scripts to automatically test the functionalities of the SpiceJet flight booking system.
